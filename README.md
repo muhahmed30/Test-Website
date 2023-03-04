@@ -1,4 +1,4 @@
-### https://github.com/muhahmed30/muhahmed30 Hi there 👋
+### https://muhahmed30.github.io/muhahmed30/ Hi there 👋
 
 <!--
 **muhahmed30/muhahmed30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
